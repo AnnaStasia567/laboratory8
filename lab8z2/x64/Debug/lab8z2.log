@@ -1,0 +1,23 @@
+﻿  MyForm.cpp
+D:\Інформатика\C++\lab8z2\MyForm.h(76,69): error C2039: "label1_Click": не является членом "lab8z2::MyForm".
+D:\Інформатика\C++\lab8z2\MyForm.h(15): message : см. объявление "lab8z2::MyForm"
+D:\Інформатика\C++\lab8z2\MyForm.h(76,1): error C2065: label1_Click: необъявленный идентификатор
+D:\Інформатика\C++\lab8z2\MyForm.h(76,1): error C3924: ошибка в аргументе #2 вызова конструктора делегата "System::EventHandler":
+D:\Інформатика\C++\lab8z2\MyForm.h(76,1): message : требуется указатель на функцию-член
+D:\Інформатика\C++\lab8z2\MyForm.h(88,70): error C2039: "button1_Click": не является членом "lab8z2::MyForm".
+D:\Інформатика\C++\lab8z2\MyForm.h(15): message : см. объявление "lab8z2::MyForm"
+D:\Інформатика\C++\lab8z2\MyForm.h(88,1): error C2065: button1_Click: необъявленный идентификатор
+D:\Інформатика\C++\lab8z2\MyForm.h(88,1): error C3924: ошибка в аргументе #2 вызова конструктора делегата "System::EventHandler":
+D:\Інформатика\C++\lab8z2\MyForm.h(88,1): message : требуется указатель на функцию-член
+D:\Інформатика\C++\lab8z2\MyForm.h(109,69): error C2039: "label2_Click": не является членом "lab8z2::MyForm".
+D:\Інформатика\C++\lab8z2\MyForm.h(15): message : см. объявление "lab8z2::MyForm"
+D:\Інформатика\C++\lab8z2\MyForm.h(109,1): error C2065: label2_Click: необъявленный идентификатор
+D:\Інформатика\C++\lab8z2\MyForm.h(109,1): error C3924: ошибка в аргументе #2 вызова конструктора делегата "System::EventHandler":
+D:\Інформатика\C++\lab8z2\MyForm.h(109,1): message : требуется указатель на функцию-член
+D:\Інформатика\C++\lab8z2\MyForm.h(150,60): error C2039: "MyForm_Load": не является членом "lab8z2::MyForm".
+D:\Інформатика\C++\lab8z2\MyForm.h(15): message : см. объявление "lab8z2::MyForm"
+D:\Інформатика\C++\lab8z2\MyForm.h(150,1): error C2065: MyForm_Load: необъявленный идентификатор
+D:\Інформатика\C++\lab8z2\MyForm.h(150,1): error C3924: ошибка в аргументе #2 вызова конструктора делегата "System::EventHandler":
+D:\Інформатика\C++\lab8z2\MyForm.h(150,1): message : требуется указатель на функцию-член
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
